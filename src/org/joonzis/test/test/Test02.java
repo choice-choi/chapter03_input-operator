@@ -19,5 +19,6 @@ public class Test02 {
 		
 		
 		sc.close(); // 스캐너 객체 소멸
+		
 	}
 }
